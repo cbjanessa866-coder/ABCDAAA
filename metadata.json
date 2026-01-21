@@ -1,0 +1,7 @@
+{
+  "name": "VisionAI",
+  "description": "A sophisticated AI-powered photography assistant that helps you achieve perfect framing and composition using the Golden Ratio and Rule of Thirds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
